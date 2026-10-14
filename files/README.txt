@@ -1,1 +1,1 @@
-Add your CV PDF here as cv.pdf.
+Optional: add your CV as cv.pdf.

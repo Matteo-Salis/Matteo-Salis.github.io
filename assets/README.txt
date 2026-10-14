@@ -1,1 +1,1 @@
-Add your profile photo here as profile.jpg (optional).
+Optional: add your portrait as profile.jpg.
